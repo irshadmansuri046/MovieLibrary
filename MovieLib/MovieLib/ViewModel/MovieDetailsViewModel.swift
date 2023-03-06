@@ -2,7 +2,7 @@
 //  MovieDetailsViewModel.swift
 //  MovieLib
 //
-//  Created by GOQii-Irshad on 10/02/23.
+//  Created by Irshad on 10/02/23.
 //
 
 import Foundation
